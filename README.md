@@ -15,10 +15,10 @@ react-native run-android
 Page 1 > Page 2
 ```
 
-Now pdf is loaded because of pageOffset property of viewpager.
+Now pdf is loaded on Page 3 because of pageOffset property of viewpager.
 
 ```
-> Page 2 > Page 3 > Page 2 > Page 3
+Page 2 > Page 3 > Page 2 > Page 3
 ```
 
 Pdf is still loaded and can be viewed again.
